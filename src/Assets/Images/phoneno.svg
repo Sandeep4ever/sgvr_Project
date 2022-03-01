@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_5034" data-name="Group 5034" transform="translate(-532 -611)">
+    <circle id="Ellipse_349" data-name="Ellipse 349" cx="16" cy="16" r="16" transform="translate(532 611)" fill="rgba(223,185,62,0.1)"/>
+    <g id="baseline-phone-24px" transform="translate(540 619)">
+      <path id="Path_867" data-name="Path 867" d="M0,0H16.2V16.2H0Z" fill="none"/>
+      <path id="Path_868" data-name="Path 868" d="M5.443,8.257A10.222,10.222,0,0,0,9.89,12.7l1.485-1.485a.671.671,0,0,1,.688-.162,7.7,7.7,0,0,0,2.409.385.677.677,0,0,1,.675.675v2.355a.677.677,0,0,1-.675.675A11.471,11.471,0,0,1,3,3.675.677.677,0,0,1,3.675,3H6.037a.677.677,0,0,1,.675.675A7.666,7.666,0,0,0,7.1,6.084a.677.677,0,0,1-.169.688Z" transform="translate(-0.976 -0.976)" fill="#d4af37"/>
+    </g>
+  </g>
+</svg>

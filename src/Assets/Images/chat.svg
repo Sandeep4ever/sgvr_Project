@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.774" height="20.75" viewBox="0 0 24.774 20.75">
+  <g id="Group_4969" data-name="Group 4969" transform="translate(0.772)">
+    <g id="Group_4964" data-name="Group 4964" transform="translate(0 1)">
+      <path id="_5402361_bubble_chat_message_notification_comment_icon" data-name="5402361_bubble_chat_message_notification_comment_icon" d="M12.5,3A9.51,9.51,0,0,0,3,12.5a9.39,9.39,0,0,0,2.44,6.35l-2.29,2.3a.47.47,0,0,0-.11.54A.5.5,0,0,0,3.5,22h9a9.5,9.5,0,0,0,0-19Z" transform="translate(-2.998 -3)" fill="none" stroke="#2c2c2c" strokeWidth="1.5"/>
+      <circle id="Ellipse_311" data-name="Ellipse 311" cx="1" cy="1" r="1" transform="translate(4.481 9.5)" fill="#2c2c2c"/>
+      <circle id="Ellipse_312" data-name="Ellipse 312" cx="1" cy="1" r="1" transform="translate(8.481 9.5)" fill="#2c2c2c"/>
+      <circle id="Ellipse_313" data-name="Ellipse 313" cx="1" cy="1" r="1" transform="translate(12.481 9.5)" fill="#2c2c2c"/>
+    </g>
+    <g id="Ellipse_315" data-name="Ellipse 315" transform="translate(14.002)" fill="#d3161c" stroke="#fff" strokeWidth="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>

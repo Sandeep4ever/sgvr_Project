@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_5039" data-name="Group 5039" transform="translate(-532 -485)">
+    <circle id="Ellipse_347" data-name="Ellipse 347" cx="16" cy="16" r="16" transform="translate(532 485)" fill="rgba(223,185,62,0.1)"/>
+    <g id="_465050_calendar_schedule_date_day_event_icon" data-name="465050_calendar_schedule_date_day_event_icon" transform="translate(507.7 493.9)">
+      <rect id="Rectangle_845" data-name="Rectangle 845" width="1.746" height="1.746" transform="translate(39.383 6.669)" fill="#d4af37"/>
+      <rect id="Rectangle_846" data-name="Rectangle 846" width="1.746" height="1.746" transform="translate(42.12 6.669)" fill="#d4af37"/>
+      <rect id="Rectangle_847" data-name="Rectangle 847" width="1.746" height="1.746" transform="translate(36.648 9.323)" fill="#d4af37"/>
+      <rect id="Rectangle_848" data-name="Rectangle 848" width="1.746" height="1.746" transform="translate(39.383 9.323)" fill="#d4af37"/>
+      <rect id="Rectangle_849" data-name="Rectangle 849" width="1.746" height="1.746" transform="translate(42.12 9.323)" fill="#d4af37"/>
+      <path id="Path_8084" data-name="Path 8084" d="M127.482,3.423h0a.784.784,0,0,1-.782-.782V.882A.784.784,0,0,1,127.482.1h0a.784.784,0,0,1,.782.782V2.644a.784.784,0,0,1-.782.779Z" transform="translate(-89.918)" fill="#d4af37"/>
+      <path id="Path_8085" data-name="Path 8085" d="M44.949,61.9h-.887v1.067a1.189,1.189,0,0,1-1.177,1.2h-.312a1.189,1.189,0,0,1-1.177-1.2V61.9H38.969v1.067a1.189,1.189,0,0,1-1.177,1.2H37.48a1.189,1.189,0,0,1-1.177-1.2V61.9h-.68A1.338,1.338,0,0,0,34.3,63.243v9.4a1.338,1.338,0,0,0,1.324,1.343h9.328a1.338,1.338,0,0,0,1.324-1.343v-9.4A1.342,1.342,0,0,0,44.949,61.9Zm-.226,9.478a.832.832,0,0,1-.822.836H36.675a.832.832,0,0,1-.822-.836V66.639a.861.861,0,0,1,.822-.868H43.9a.861.861,0,0,1,.822.868Z" transform="translate(0 -60.14)" fill="#d4af37"/>
+      <path id="Path_8086" data-name="Path 8086" d="M319.982,3.423h0a.784.784,0,0,1-.782-.782V.882A.784.784,0,0,1,319.982.1h0a.784.784,0,0,1,.782.782V2.644a.784.784,0,0,1-.782.779Z" transform="translate(-277.246)" fill="#d4af37"/>
+    </g>
+  </g>
+</svg>

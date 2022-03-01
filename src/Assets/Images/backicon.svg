@@ -1,0 +1,6 @@
+<svg id="icons_back" data-name="icons/back" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="bg" width="24" height="24" fill="none"/>
+  <g id="ico" transform="translate(-178.773 -48.653)">
+    <path id="union" d="M6.844,14.576.4,8.126A.822.822,0,0,1,.113,7.008a.828.828,0,0,1,.225-.261L6.844.241A.823.823,0,1,1,8.007,1.4L2.81,6.6H16.724a.822.822,0,1,1,0,1.644H2.841l5.167,5.166a.823.823,0,0,1-1.164,1.164Z" transform="translate(183 53.231)" fill="#242424"/>
+  </g>
+</svg>

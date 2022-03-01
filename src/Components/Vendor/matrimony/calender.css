@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Poppins:wght@300;400;500;600;700;800&family=Roboto:wght@400;500;600;700;900&family=Rubik:wght@300;400;500;600;700;800&display=swap");
+
+/* .calendar-card {
+  width: 600px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 10px #0000000d;
+  border-radius: 4px;
+  margin: auto;
+  margin-top: 10%;
+  padding: 40px 30px;
+} */
+
+.calendar-head {
+  display: flex;
+  margin-bottom: 37px;
+}
+.calendar-head .calendar-date-management {
+  display: flex;
+  /* width: 180px; */
+  justify-content: space-around;
+  font: normal normal 600 18px/20px Roboto;
+  letter-spacing: 0px;
+  color: #202124;
+  text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
+  align-items: center;
+}
+.calendar-head .calendar-date-management p {
+  font: inherit;
+  cursor: pointer;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+}
+.calendar-head .calendar-date-management p:nth-of-type(2),
+.calendar-head .calendar-date-management p:nth-of-type(3) {
+  width: 80px;
+  text-align: center;
+  border-radius: 0;
+}
+.calendar-head .calendar-date-management p:hover {
+  background-color: rgba(233, 233, 233, 0.721);
+}
+.calendar-day table td {
+  text-align: left;
+  font: normal normal 600 16px/20px Roboto;
+  letter-spacing: 0px;
+  color: #202124;
+  font-family: "Roboto", sans-serif;
+  border: 1px solid rgb(211, 211, 211);
+}
+.calendar-day table thead td {
+  padding: 20px 25px;
+}
+.calendar-day table tbody td {
+  padding: 25px 30px;
+}
+.calendar-day table {
+  border-collapse: collapse;
+  border: 5px;
+}
+ .calendar-day table thead {
+  background: #c9c9c936 0% 0% no-repeat padding-box;
+  border-radius: 3px 3px 0px 0px;
+}
+.showyear {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.517);
+}
+.showyear .year {
+  width: 200px;
+  background-color: white;
+  height: 300px;
+  overflow-y: auto;
+  margin: auto;
+  margin-top: 10%;
+}
+.showyear .year p {
+  text-align: center;
+  cursor: pointer;
+  font: normal normal 600 14px/20px Roboto;
+  letter-spacing: 0px;
+  color: #202124;
+  font-family: "Roboto", sans-serif;
+  border: 1px solid rgb(211, 211, 211);
+  margin: 0;
+  padding: 10px;
+ 
+
+  user-select: none; /* supported by Chrome and Opera */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+}
